@@ -1,7 +1,7 @@
 # WebDesigining-project-02
 🚀 NAMASTE  DEVELOPER 
 
- Thus is a Modern Bootstrap  Website 
+ This is a Modern Bootstrap  Website 
  It is a responsive, modern, and stylish Bootstrap portfolio website template designed to showcase your work, skills, and experience in a professional and elegant manner. 🌟
 
 📖 Description
